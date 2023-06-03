@@ -1,0 +1,3 @@
+{
+  "extends": "@stackpaper/ts-config/base.json" 
+}
