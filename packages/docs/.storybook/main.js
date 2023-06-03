@@ -15,5 +15,11 @@ const config = {
     autodocs: true,
     defaultName: 'Docs'
   },
+  viteFinal: (config, { configType }) => {
+    if(configType === 'PRODUCTION') {
+      config.base = '/design-system/'
+    }
+    return config
+  }
 };
 export default config;
