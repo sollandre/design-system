@@ -1,0 +1,2 @@
+import{d as a,e as o,a as e}from"./index.ef9b900e.js";import{j as t}from"./jsx-runtime.4c64463a.js";import"./index.b08c16f2.js";import"./iframe.2847fb71.js";import"./index.65a657fd.js";const p={title:"Data Display/Toast",component:a,args:{title:"Agendamento realizado",description:"Quarta-feira, 26 de Outubro de 2023"},decorators:[r=>t(o,{ToastElement:t(r,{}),children:t(e,{children:"Click me!"})})],argTypes:{}},c={},l=["Primary"];export{c as Primary,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Toast.stories.26adeb45.js.map

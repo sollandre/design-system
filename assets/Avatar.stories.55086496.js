@@ -1,0 +1,2 @@
+import{A as t}from"./index.ef9b900e.js";import"./index.b08c16f2.js";import"./iframe.2847fb71.js";import"./index.65a657fd.js";import"./jsx-runtime.4c64463a.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/sollandre.png",alt:"Andre Solla"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.55086496.js.map
